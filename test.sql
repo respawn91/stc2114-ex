@@ -1,1 +1,3 @@
 SELECT * FROM phones
+ORDER BY price
+DESC
